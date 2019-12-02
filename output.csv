@@ -1,0 +1,209 @@
+Name Meter | Slave ID | Register | Value | Description
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.98 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.98 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.65 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.97 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.97 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.63 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.96 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.96 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.57 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.96 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.96 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.5 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.97 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.97 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.6 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.97 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.97 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.53 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.96 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.96 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.54 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.97 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.97 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.59 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.98 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.98 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.48 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.97 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.98 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.54 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.97 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.97 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.51 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.96 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.96 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.45 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|258|0.0 |P1 Power factor
+FemtoD4_1|147|218|49.95 Hz|Frequency of U1N
+FemtoD4_1|147|276|0.0 W|Total Active Power (+/-)
+FemtoD4_1|147|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_1|147|284|nan °C|Internal Temperature °C
+FemtoD4_1|147|294|238.99 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|296|238.75 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_1|147|298|239.05 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|258|0.0 |P1 Power factor
+FemtoD4_2|27|218|49.96 Hz|Frequency of U1N
+FemtoD4_2|27|276|0.0 W|Total Active Power (+/-)
+FemtoD4_2|27|278|0.0 VAr|Total Reactive Power (+/-)
+FemtoD4_2|27|284|73.47 °C|Internal Temperature °C
+FemtoD4_2|27|294|239.59 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|296|239.68 V|Phase to Neural Voltage, RMS Amplitude, MAX 
+FemtoD4_2|27|298|239.53 V|Phase to Neural Voltage, RMS Amplitude, MAX 

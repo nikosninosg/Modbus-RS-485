@@ -1,0 +1,18 @@
+echo "The standard serial port of the PC which identifies the device is the following: /dev/ttyUSB0"
+
+sudo apt-get update && sudo apt-get upgrade
+sudo pip install virtualenv
+sudo pip install click
+sudo apt-get install python-pip
+sudo apt install git
+sudo pip install pymodbus
+git clone git://github.com/bashwork/pymodbus.git
+cd pymodbus
+sudo python setup.py install
+
+
+!Visit pymodbus site
+
+
+
+

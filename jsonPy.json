@@ -1,0 +1,38 @@
+{
+	"meters":[	
+			{
+			"nameMeter": "FemtoD4_1",
+			"slaveID": 147, 
+			"portSlave": "/dev/ttyUSB0",
+			"method": "RTU",
+			"registers": [
+				{"address": 258, "Description": "P1 Power factor", "shortDe": "PF1", "var": ""},
+				{"address": 218, "Description": "Frequency of U1N", "shortDe": "f", "var": "Hz"},
+				{"address": 276, "Description": "Total Active Power (+/-)", "shortDe": "P", "var": "W"},
+				{"address": 278, "Description": "Total Reactive Power (+/-)", "shortDe": "Q", "var": "VAr"},
+				{"address": 284, "Description": "Internal Temperature °C", "shortDe": "T", "var": "°C"},
+				{"address": 294, "Description": "Phase to Neural Voltage, RMS Amplitude, MAX ", "shortDe": "U1N MAX", "var": "V"},
+				{"address": 296, "Description": "Phase to Neural Voltage, RMS Amplitude, MAX ", "shortDe": "U2N MAX", "var": "V"},
+				{"address": 298, "Description": "Phase to Neural Voltage, RMS Amplitude, MAX ", "shortDe": "U3N MAX", "var": "V"}
+				]
+					
+			},
+			{
+			"nameMeter": "FemtoD4_2",
+			"slaveID": 27, 
+			"portSlave": "/dev/ttyUSB0",
+			"method": "RTU",
+			"registers": [
+				{"address": 258, "Description": "P1 Power factor", "shortDe": "PF1", "var": ""},
+				{"address": 218, "Description": "Frequency of U1N", "shortDe": "f", "var": "Hz"},
+				{"address": 276, "Description": "Total Active Power (+/-)", "shortDe": "P", "var": "W"},
+				{"address": 278, "Description": "Total Reactive Power (+/-)", "shortDe": "Q", "var": "VAr"},
+				{"address": 284, "Description": "Internal Temperature °C", "shortDe": "T", "var": "°C"},
+				{"address": 294, "Description": "Phase to Neural Voltage, RMS Amplitude, MAX ", "shortDe": "U1N MAX", "var": "V"},
+				{"address": 296, "Description": "Phase to Neural Voltage, RMS Amplitude, MAX ", "shortDe": "U2N MAX", "var": "V"},
+				{"address": 298, "Description": "Phase to Neural Voltage, RMS Amplitude, MAX ", "shortDe": "U3N MAX", "var": "V"}
+				]
+					
+			}	
+			]
+}
