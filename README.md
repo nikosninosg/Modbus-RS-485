@@ -8,3 +8,6 @@ Make changes (ID meter, Port , Method , Registers-Address) at jsonPy.json (JSON 
 Execute final.py
 
 Read output.csv
+
+
+# Other files are for testing and connection. Execute them for learning.
