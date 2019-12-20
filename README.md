@@ -3,6 +3,8 @@ Connect RPI with an energy meter via Modbus RS-485.
 
 Execute built
 
-Make changes at JSON file (ID meter, Port , Method , Registers-Address)
+Make changes (ID meter, Port , Method , Registers-Address) at jsonPy.json (JSON file) 
 
 Execute final.py
+
+Read output.csv
